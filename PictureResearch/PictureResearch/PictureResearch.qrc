@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>img/open3.bmp</file>
+        <file>img/spiderman.jpg</file>
+    </qresource>
+</RCC>
